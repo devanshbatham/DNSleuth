@@ -9,6 +9,7 @@ To install DNSleuth, simply run the `setup.sh`
 ```bash
 git clone https://github.com/devanshbatham/DNSleuth
 cd DNSleuth
+sudo chmod +x setup.sh
 ./setup.sh
 ```
 
