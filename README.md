@@ -18,7 +18,7 @@
 
 To install DNSleuth, simply run the `setup.sh` script:
 
-```bash
+```sh
 git clone https://github.com/devanshbatham/DNSleuth
 cd DNSleuth
 sudo chmod +x setup.sh
@@ -27,13 +27,13 @@ sudo chmod +x setup.sh
 
 and run the following command to start DNSleuth:
 
-```bash
+```sh
 dnsleuth
 ```
 
 DNSleuth will start sniffing DNS packets on all interfaces and print the DNS queries with colors. To stop DNSleuth, press `Ctrl+C`. 
 
-```bash
+```sh
 (~) >>> dnsleuth                                                                                             
 
 [2023-07-31 19:34:41] AAAA       oast.site.
