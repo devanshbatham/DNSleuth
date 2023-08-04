@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="#usage">⛏️ Usage</a>
+     &nbsp;&nbsp;&nbsp;
   <a href="#dependencies">📦 Dependencies</a>
   <br>
 </p>
