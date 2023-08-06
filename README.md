@@ -13,6 +13,7 @@
   <br>
 </p>
 
+![DNSleuth](https://github.com/devanshbatham/DNSleuth/blob/main/static/dnsleuth.png?raw=true)
 
 # Usage
 
